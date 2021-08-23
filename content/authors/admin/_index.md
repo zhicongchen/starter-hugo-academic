@@ -6,6 +6,7 @@ bio: ""
 interests:
   - Computational Social Science
   - Knowledge and Innovations
+  - Media Technology and Society
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,10 +41,10 @@ email: zhicong.chen@my.cityu.edu.hk
 superuser: true
 highlight_name: false
 ---
-I'm currently a 4th-year Ph.D. student in Communication at [Web Mining Lab](http://weblab.com.cityu.edu.hk/) and [Department of Media and Communication](https://www.cityu.edu.hk/com), City University of Hong Kong, supervised by [Dr. Xiaofan Liu](https://www.cityu.edu.hk/com/Profile.aspx?u=xliu347) and co-supervised by [Prof. Jonathan Zhu](https://www.cityu.edu.hk/com/Profile.aspx?u=enjhzhu). 
+I'm currently a 4th-year Ph.D. student in Computational Social Science at [Web Mining Lab](http://weblab.com.cityu.edu.hk/) and [Department of Media and Communication](https://www.cityu.edu.hk/com), City University of Hong Kong, supervised by [Dr. Xiaofan Liu](https://www.cityu.edu.hk/com/Profile.aspx?u=xliu347) and co-supervised by [Prof. Jonathan Zhu](https://www.cityu.edu.hk/com/Profile.aspx?u=enjhzhu). 
 
-My on-going Ph.D. dissertation examines the diffusion process, user sustainability, and social impacts of the anonymous communication technology (e.g. [The Tor Network](https://torproject.org/) and [The Dark Web](https://en.wikipedia.org/wiki/Dark_web)) through quantitative and computational approaches.
+My Ph.D. dissertation examines the diffusion process, user sustainability, and social impacts of anonymous communication technologies (e.g. [The Tor Network](https://torproject.org/) and [The Dark Web](https://en.wikipedia.org/wiki/Dark_web)) through quantitative and computational approaches.
 
-Before coming to Hong Kong, I was deeply attracted by research in computational social science as an undergraduate in 2015, since when I started to study social sciences. 
+Before coming to Hong Kong, I was deeply attracted by computational social science as an undergraduate in 2015, since when I started to study social sciences. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://portland-my.sharepoint.com/:b:/g/personal/zcchen5-c_my_cityu_edu_hk/ESnAlLYEBiRIh17NrNsY6YIBkjD2twZxXScWQAZrJEiecA" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://portland-my.sharepoint.com/:b:/g/personal/zcchen5-c_my_cityu_edu_hk/ESnAlLYEBiRIh17NrNsY6YIBkjD2twZxXScWQAZrJEiecA" "newtab" >}}CV{{< /staticref >}}.
