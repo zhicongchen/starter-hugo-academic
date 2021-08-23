@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Publications
+title: Working Papers
 subtitle: ''
 
 content:
@@ -40,5 +40,10 @@ design:
 Quickly discover relevant content by \\[filtering publications](./publication/).
 {{% /callout %}} -->
 
-Takeshi Hamamura, **Zhicong Chen**, Christian S. Chan, Sylvia Xiaohua Chen, Tetsuro Kobayashi. (2021, accepted). Individualism with Chinese Characteristics? Discerning Cultural Shifts in China Using 50 Years of Printed Texts. *American Psychologist*. [[Codes](https://osf.io/4phmk/)]
+Examining the Information Pathways Leading to the Darknet: A Cross-National Analysis (with Eric Jardine and Xiao-Fan Liu). Paper presented at the 71st Annual Conference of International Communication Association (ICA), Denver, Colorado, USA (Virtual).
+
+Why Do Users Leave Anonymous Online Communities? An Exploratory Study of the Silk Road Forum on the Dark Web (with Xiao-Fan Liu). Paper presented at the 71st Annual Conference of International Communication Association (ICA), Denver, Colorado, USA (Virtual).
+
+Depolarization in the rise of far-right platforms? : A moderated mediation model on political identity, misinformation belief and voting behavior in the 2020 US Presidential Election (with Xiang Meng and Wenting Yu). Paper presented at 2021 International Association for Media and Communication Research Conference (IAMCR 2021), Nairobi, Kenya.
+
 
