@@ -1,7 +1,7 @@
 ---
 title: Zhicong Chen
 role: Ph.D. Student in Computational Social Science
-avatar_filename: czc-prague-400x400.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Computational Social Science
