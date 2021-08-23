@@ -1,13 +1,11 @@
 ---
 title: Zhicong Chen
 role: Ph.D. Student in Computational Social Science
-bio: My research interests include media user analytics and computational social
-  science.
+avatar_filename: czc-prague-400x400.jpg
+bio: ""
 interests:
   - Computational Social Science
   - Knowledge and Innovations
-  - Network Analysis
-  - Text Analysis
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,26 +23,27 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/jssyczc
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: City University of Hong Kong
+    url: https://www.cityu.edu.hk/
 education:
   courses:
     - course: Ph.D. in Communication
       institution: City University of Hong Kong
-      year: ""
-    - course: Master in Journalism and Communication
+      year: 2022
+    - course: Master in Communication
       institution: Nanjing University
       year: 2018
     - course: BEng in Software Engineering
       institution: Nanjing University of Posts and Telecommunication
       year: 2016
-email: ""
+email: zhicong.chen@my.cityu.edu.hk
 superuser: true
 highlight_name: false
 ---
+I'm currently a 4th-year Ph.D. student in Communication at [Web Mining Lab](http://weblab.com.cityu.edu.hk/) and [Department of Media and Communication](https://www.cityu.edu.hk/com), City University of Hong Kong, supervised by [Dr. Xiaofan Liu](https://www.cityu.edu.hk/com/Profile.aspx?u=xliu347) and co-supervised by [Prof. Jonathan Zhu](https://www.cityu.edu.hk/com/Profile.aspx?u=enjhzhu). 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My on-going Ph.D. dissertation examines the diffusion process, user sustainability, and social impacts of the anonymous communication technology (e.g. [The Tor Network](https://torproject.org/) and [The Dark Web](https://en.wikipedia.org/wiki/Dark_web)) through quantitative and computational approaches.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before coming to Hong Kong, I was deeply attracted by research in computational social science as an undergraduate in 2015, since when I started to study social sciences. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://portland-my.sharepoint.com/:b:/g/personal/zcchen5-c_my_cityu_edu_hk/ESnAlLYEBiRIh17NrNsY6YIBkjD2twZxXScWQAZrJEiecA" "newtab" >}}resumé{{< /staticref >}}.
