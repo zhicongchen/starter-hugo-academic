@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: L
 
@@ -23,15 +23,15 @@ twitter: ''
 email: zhicong.chen@my.cityu.edu.hk
 # phone: 888 888 88 88
 address:
-  street: 18 Tat Hong Avenue
+  street: M5013, Run Run Shaw Creative Media Centre, 18 Tat Hong Avenue
   city: Kowloon
-  region: Hong Kong
+  region: Hong Kong SAR, China
   # postcode: '94305'
   country: Hong Kong
   country_code: HK
-# coordinates:
-#   latitude: '37.4275'
-#   longitude: '-122.1697'
+coordinates:
+  latitude: '22.340172'
+  longitude: '114.1662723'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
@@ -63,7 +63,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization

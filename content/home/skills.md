@@ -20,7 +20,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 1 year
+- description: 2 years
   icon: r-project
   icon_pack: fab
   name: R
