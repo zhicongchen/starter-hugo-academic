@@ -54,10 +54,10 @@ superuser: true
 highlight_name: false
 
 ---
-I'm currently a Ph.D. student in computational social science at [Web Mining Lab](http://weblab.com.cityu.edu.hk/) and [Department of Media and Communication](https://www.cityu.edu.hk/com), City University of Hong Kong, under the supervision of [Dr. Xiaofan Liu](https://www.cityu.edu.hk/com/Profile.aspx?u=xliu347) and [Prof. Jonathan Zhu](https://www.cityu.edu.hk/com/Profile.aspx?u=enjhzhu). 
+I'm currently a fourth-year Ph.D. student in computational social science at [Web Mining Lab](http://weblab.com.cityu.edu.hk/) and [Department of Media and Communication](https://www.cityu.edu.hk/com), City University of Hong Kong, supervised by [Dr. Xiaofan Liu](https://www.cityu.edu.hk/com/Profile.aspx?u=xliu347) and [Prof. Jonathan Zhu](https://www.cityu.edu.hk/com/Profile.aspx?u=enjhzhu). 
 
 My Ph.D. dissertation examines the diffusion process, user sustainability, and social impacts of anonymous communication technologies (e.g. [The Tor Network](https://torproject.org/), commonly known as the [Dark Web](https://en.wikipedia.org/wiki/Dark_web)) with quantitative and computational methods.
 
-Before coming to Hong Kong, I was deeply attracted by computational social science an undergraduate in 2015, since when I started to study social sciences. 
+Before coming to Hong Kong, I was deeply attracted by computational social science when I was an undergraduate in 2015, since when I started to study social sciences. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://portland-my.sharepoint.com/:b:/g/personal/zcchen5-c_my_cityu_edu_hk/ESnAlLYEBiRIh17NrNsY6YIBkjD2twZxXScWQAZrJEiecA" "newtab" >}}CV{{< /staticref >}}.
