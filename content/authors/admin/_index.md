@@ -9,9 +9,10 @@ bio: ""
 
 interests:
   - Computational Social Science
+  - Diffusion of Innovations
+  - Media User Analytics
   - Media Technology and Society
-  - Online Communities
-  - Knowledge and Innovations
+  - Computational Methods
 
 social:
   - icon: envelope
@@ -53,7 +54,7 @@ superuser: true
 highlight_name: false
 
 ---
-I'm currently a fourth-year Ph.D. student in computational social science at [Web Mining Lab](http://weblab.com.cityu.edu.hk/) and [Department of Media and Communication](https://www.cityu.edu.hk/com), City University of Hong Kong, supervised by [Dr. Xiaofan Liu](https://www.cityu.edu.hk/com/Profile.aspx?u=xliu347) and [Prof. Jonathan Zhu](https://www.cityu.edu.hk/com/Profile.aspx?u=enjhzhu). 
+I'm currently a Ph.D. student in computational social science at [Web Mining Lab](http://weblab.com.cityu.edu.hk/) and [Department of Media and Communication](https://www.cityu.edu.hk/com), City University of Hong Kong, under the supervision of [Dr. Xiaofan Liu](https://www.cityu.edu.hk/com/Profile.aspx?u=xliu347) and [Prof. Jonathan Zhu](https://www.cityu.edu.hk/com/Profile.aspx?u=enjhzhu). 
 
 My Ph.D. dissertation examines the diffusion process, user sustainability, and social impacts of anonymous communication technologies (e.g. [The Tor Network](https://torproject.org/), commonly known as the [Dark Web](https://en.wikipedia.org/wiki/Dark_web)) with quantitative and computational methods.
 
