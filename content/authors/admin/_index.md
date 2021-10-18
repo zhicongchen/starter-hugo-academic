@@ -26,7 +26,7 @@ social:
     link: https://github.com/zhicongchen
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/zhicongchen
+    link: https://twitter.com/jssyczc
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jssyczc/
