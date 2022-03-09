@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 5 years
+- description: 6 years
   icon: python
   icon_pack: fab
   name: Python
-- description: 2 years
+- description: 3 years
   icon: r-project
   icon_pack: fab
   name: R
-- description: 5 years
+- description: 6 years
   icon: linux
   icon_pack: fab
   name: Linux

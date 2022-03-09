@@ -21,6 +21,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=mt_TyjoAAAAJ
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Zhicong-Chen-2
   - icon: github
     icon_pack: fab
     link: https://github.com/zhicongchen
