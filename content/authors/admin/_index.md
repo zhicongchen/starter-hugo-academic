@@ -52,9 +52,9 @@ education:
       institution: Nanjing University of Posts and Telecommunications
       year: 2016
 
-email: zhicong.chen@my.cityu.edu.hk
+email: jssyczc@gmail.com
 superuser: true
-highlight_name: false
+highlight_name: true
 
 ---
 I'm currently a fourth-year Ph.D. student in computational social science at [Web Mining Lab](http://weblab.com.cityu.edu.hk/) and [Department of Media and Communication](https://www.cityu.edu.hk/com), City University of Hong Kong, under the supervision of [Dr. Xiaofan Liu](https://www.cityu.edu.hk/com/Profile.aspx?u=xliu347) and [Prof. Jonathan J. H. Zhu](https://www.cityu.edu.hk/com/Profile.aspx?u=enjhzhu). 
