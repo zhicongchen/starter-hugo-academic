@@ -40,9 +40,9 @@ design:
 Quickly discover relevant content by \\[filtering publications](./publication/).
 {{% /callout %}} -->
 
-### Journal Publication
+### Journal Publications
 
-- **Zhicong Chen**, [Eric Jardine](https://scholar.google.ca/citations?user=WC3tk7kAAAAJ&hl=en), [Xiao-Fan Liu](https://scholar.google.com/citations?user=77urMs4AAAAJ&hl=en), [Jonathan J. H. Zhu](https://scholar.google.com/citations?user=q41vFFQAAAAJ&hl=en). (2022) Seeking Anonymity on the Internet: The Knowledge Accumulation Process and Global Usage of the Tor Network. New Media & Society. January 2022. [https://doi:10.1177/14614448211072201](https://doi:10.1177/14614448211072201)
+- **Zhicong Chen**, [Eric Jardine](https://scholar.google.ca/citations?user=WC3tk7kAAAAJ&hl=en), [Xiao-Fan Liu](https://scholar.google.com/citations?user=77urMs4AAAAJ&hl=en), [Jonathan J. H. Zhu](https://scholar.google.com/citations?user=q41vFFQAAAAJ&hl=en). (2022, OnlineFirst) Seeking Anonymity on the Internet: The Knowledge Accumulation Process and Global Usage of the Tor Network. New Media & Society. [https://doi.org/10.1177/14614448211072201](https://doi.org/10.1177/14614448211072201)
 
 - [Takeshi Hamamura](https://scholar.google.com.au/citations?user=ZBaTY_0AAAAJ), **Zhicong Chen**, [Christian S. Chan](https://scholar.google.com/citations?user=idD2rG8AAAAJ&hl=en), [Sylvia Xiaohua Chen](https://scholar.google.com/citations?user=YK5zqVUAAAAJ&hl=en), [Tetsuro Kobayashi](https://scholar.google.com/citations?user=Ro7C2w0AAAAJ&hl=zh-TW). (2021). Individualism with Chinese Characteristics? Discerning Cultural Shifts in China Using 50 Years of Printed Texts. *American Psychologist*, 76(6), 888–903. [https://doi.org/10.1037/amp0000840](https://doi.org/10.1037/amp0000840) [[Codes](https://osf.io/4phmk/)]
 
@@ -50,7 +50,7 @@ Quickly discover relevant content by \\[filtering publications](./publication/).
 
 - **Zhicong Chen**, [Xiao-Fan Liu](https://scholar.google.com/citations?user=77urMs4AAAAJ&hl=en). Why Do Users Leave Anonymous Online Communities? An Exploratory Study of the Silk Road Forum on the Dark Web. Paper presented at the 71st Annual Conference of International Communication Association (ICA 2021), Denver, Colorado, USA (Virtual).
 
-- **Zhicong Chen**, Xiang Meng and [Wenting Yu](https://scholar.google.com.hk/citations?user=vxE6Dm0AAAAJ&hl=zh-TW). Depolarization in the rise of far-right platforms? : A moderated mediation model on political identity, misinformation belief and voting behavior in the 2020 US Presidential Election. Paper presented at 2021 Conference of International Association for Media and Communication Research (IAMCR 2021), Nairobi, Kenya (Virtual).
+- **Zhicong Chen**, Xiang Meng, [Wenting Yu](https://scholar.google.com.hk/citations?user=vxE6Dm0AAAAJ&hl=zh-TW). Depolarization in the rise of far-right platforms? : A moderated mediation model on political identity, misinformation belief and voting behavior in the 2020 US Presidential Election. Paper presented at 2021 Conference of International Association for Media and Communication Research (IAMCR 2021), Nairobi, Kenya (Virtual).
 
 ### Preprint Manuscripts
 
