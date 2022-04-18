@@ -18,21 +18,27 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=mt_TyjoAAAAJ
   - icon: researchgate
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Zhicong-Chen-2
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/zhicongchen
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-0334-9454
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/jssyczc
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jssyczc/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/zhicongchen
+  - icon: stackoverflow
+    icon_pack: ai
+    link: https://stackoverflow.com/users/5169376/zhicong-chen
 
 organizations:
   - name: Web Mining Lab
@@ -63,4 +69,4 @@ My Ph.D. dissertation examines the diffusion process, user sustainability, and s
 
 Before coming to Hong Kong, I was deeply attracted by computational social science when I was an undergraduate in 2015, since when I started to study social sciences. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://portland-my.sharepoint.com/:b:/g/personal/zcchen5-c_my_cityu_edu_hk/ESnAlLYEBiRIh17NrNsY6YIBkjD2twZxXScWQAZrJEiecA" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://portland-my.sharepoint.com/:b:/g/personal/zcchen5-c_my_cityu_edu_hk/EX86XqHzUyZNm4ie4khAGRsBUlhZnamrPp477I3xCM2KuA?e=B2rshs" "newtab" >}}CV{{< /staticref >}} (in {{< staticref "https://portland-my.sharepoint.com/:b:/g/personal/zcchen5-c_my_cityu_edu_hk/EcvJSP-M7UxLqqOqPCIjarQBKH28eodFM7pXcpyHbeIbPg?e=EnN9tb" "newtab" >}}Chinese{{< /staticref >}}).

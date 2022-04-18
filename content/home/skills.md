@@ -20,10 +20,23 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description: 6 years
+  icon: book
+  icon_pack: fas
+  name: Quantitative Social Research
+- description: 6 years
+  icon: github
+  icon_pack: fab
+  name: Github
+
 - description: 3 years
   icon: r-project
   icon_pack: fab
   name: R
+- description: 6 years
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
 - description: 6 years
   icon: linux
   icon_pack: fab
